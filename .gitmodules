@@ -1,4 +1,4 @@
 [submodule "NormalRepo"]
 	path = NormalRepo
-	url = https://github.com/bpswenson/SuperSecretRepo
+	url = https://github.com/bpswenson/NormalRepo
 	branch = master
