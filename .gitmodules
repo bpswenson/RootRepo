@@ -1,0 +1,3 @@
+[submodule "NormalRepo"]
+	path = NormalRepo
+	url = https://github.com/bpswenson/NormalRepo
